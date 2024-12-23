@@ -1,0 +1,42 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 70px;
+}
+
+.myNav {
+    background-color: #007bff;
+}
+
+.myNav a {
+    color: #fff;
+}
+
+
+.card {
+    margin-bottom: 20px;
+}
+
+
+.photo {
+    max-width: 100%;
+    height: auto;
+}
+
+.header {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.footer {
+    background-color: #007afc;
+    color: #fff;
+    padding: 5px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    margin-bottom: 0;
+}

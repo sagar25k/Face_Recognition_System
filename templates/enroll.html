@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Enroll Face</title>
+</head>
+<body>
+    <h1>Enroll Your Face</h1>
+    <form method="POST">
+        {% csrf_token %}
+        <input type="submit" value="Start Enrolling">
+    </form>
+</body>
+</html>
